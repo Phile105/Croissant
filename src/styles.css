@@ -1,0 +1,21 @@
+body{
+  background-color: lightskyblue
+}
+
+h1, p, footer{
+  text-align: center;
+}
+
+footer a {
+    margin: 0 10px;
+    color: rgb(28, 0, 128);
+}
+
+.croissant-photo{
+  max-width: 100%;
+  display: block;
+  margin: 30px auto;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px rgb(141, 141, 226);
+
+}
